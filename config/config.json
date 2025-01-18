@@ -1,0 +1,12 @@
+{
+    "contracts": {
+        "SP500_index": {
+            "type": "Index",
+            "symbol": "SPX",
+            "exchange": "CBOE",
+            "currency": "USD"
+        }
+    },
+    "default_duration": "30 D",
+    "default_bar_size": "5 mins"
+}
